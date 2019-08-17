@@ -1,0 +1,15 @@
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csprojAssemblyReference.cache
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.PrincipalFrm.resources
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.Properties.Resources.resources
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csproj.GenerateResource.cache
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csproj.CoreCompileInputs.cache
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe.config
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.exe
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\MicroOndasDigital.pdb
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\BLL.dll
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\Models.dll
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\BLL.pdb
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\bin\Debug\Models.pdb
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.csproj.CopyComplete
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.exe
+D:\Richard\Projetos\MicroOndasDigital\MicroOndasDigital\obj\Debug\MicroOndasDigital.pdb
